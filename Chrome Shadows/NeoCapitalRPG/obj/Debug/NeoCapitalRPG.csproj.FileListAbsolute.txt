@@ -1,0 +1,12 @@
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\NeoCapitalRPG\bin\Debug\Music\keyboard-typing-sound-effect-335503.mp3
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\NeoCapitalRPG\bin\Debug\ConsoleApp1.exe.config
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\NeoCapitalRPG\bin\Debug\ConsoleApp1.exe
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\NeoCapitalRPG\bin\Debug\ConsoleApp1.pdb
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\NeoCapitalRPG\bin\Debug\NAudio.dll
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\NeoCapitalRPG\bin\Debug\NAudio.xml
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\NeoCapitalRPG\obj\Debug\NeoCapitalRPG.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\NeoCapitalRPG\obj\Debug\NeoCapitalRPG.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\NeoCapitalRPG\obj\Debug\NeoCapit.0B9898E9.Up2Date
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\NeoCapitalRPG\obj\Debug\ConsoleApp1.exe
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\NeoCapitalRPG\obj\Debug\ConsoleApp1.pdb
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\NeoCapitalRPG\obj\Debug\ConsoleApp1.exe.config

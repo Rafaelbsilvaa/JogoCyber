@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\rafae\\documents\\github\\desenvolvimento_de_jogos\\chrome shadows\\neocapitalrpg\\services\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:services\\uiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\rafae\\documents\\github\\desenvolvimento_de_jogos\\chrome shadows\\neocapitalrpg\\model\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:model\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\rafae\\documents\\github\\desenvolvimento_de_jogos\\chrome shadows\\neocapitalrpg\\config\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:config\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\rafae\\documents\\github\\desenvolvimento_de_jogos\\chrome shadows\\neocapitalrpg\\services\\arteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:services\\arteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\rafae\\documents\\github\\desenvolvimento_de_jogos\\chrome shadows\\neocapitalrpg\\services\\audioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:services\\audioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\model\\arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:model\\arma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\rafae\\documents\\github\\desenvolvimento_de_jogos\\chrome shadows\\neocapitalrpg\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\rafae\\documents\\github\\desenvolvimento_de_jogos\\chrome shadows\\neocapitalrpg\\services\\finalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:services\\finalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\rafae\\documents\\github\\desenvolvimento_de_jogos\\chrome shadows\\neocapitalrpg\\services\\combateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:services\\combateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\rafae\\documents\\github\\desenvolvimento_de_jogos\\chrome shadows\\neocapitalrpg\\model\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:model\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|c:\\users\\rafae\\documents\\github\\desenvolvimento_de_jogos\\chrome shadows\\neocapitalrpg\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\model\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB47A129-0E50-4968-A3F0-EBA903510AF9}|NeoCapitalRPG.csproj|solutionrelative:model\\personagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudioService.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Services\\AudioService.cs",
+              "RelativeDocumentMoniker": "Services\\AudioService.cs",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Services\\AudioService.cs",
+              "RelativeToolTip": "Services\\AudioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:30:27.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIService.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Services\\UIService.cs",
+              "RelativeDocumentMoniker": "Services\\UIService.cs",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Services\\UIService.cs",
+              "RelativeToolTip": "Services\\UIService.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAH4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:32:29.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameConfig.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Model\\GameConfig.cs",
+              "RelativeDocumentMoniker": "Model\\GameConfig.cs",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Model\\GameConfig.cs*",
+              "RelativeToolTip": "Model\\GameConfig.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:49:35.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameConfig.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Config\\GameConfig.cs",
+              "RelativeDocumentMoniker": "Config\\GameConfig.cs",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Config\\GameConfig.cs",
+              "RelativeToolTip": "Config\\GameConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:35:14.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArteService.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Services\\ArteService.cs",
+              "RelativeDocumentMoniker": "Services\\ArteService.cs",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Services\\ArteService.cs",
+              "RelativeToolTip": "Services\\ArteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:31:24.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T22:56:54.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "Services\\MenuService.cs",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Services\\MenuService.cs",
+              "RelativeToolTip": "Services\\MenuService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:33:14.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FinalService.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Services\\FinalService.cs",
+              "RelativeDocumentMoniker": "Services\\FinalService.cs",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Services\\FinalService.cs",
+              "RelativeToolTip": "Services\\FinalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:33:01.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Arma.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Model\\Arma.cs",
+              "RelativeDocumentMoniker": "Model\\Arma.cs",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Model\\Arma.cs",
+              "RelativeToolTip": "Model\\Arma.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T23:36:38.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CombateService.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Services\\CombateService.cs",
+              "RelativeDocumentMoniker": "Services\\CombateService.cs",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Services\\CombateService.cs",
+              "RelativeToolTip": "Services\\CombateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:31:41.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Jogo.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Model\\Jogo.cs",
+              "RelativeDocumentMoniker": "Model\\Jogo.cs",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Model\\Jogo.cs",
+              "RelativeToolTip": "Model\\Jogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T22:29:30.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-20T22:37:29.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Personagem.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Model\\Personagem.cs",
+              "RelativeDocumentMoniker": "Model\\Personagem.cs",
+              "ToolTip": "C:\\Users\\rafae\\Documents\\GitHub\\Desenvolvimento_de_Jogos\\Chrome Shadows\\NeoCapitalRPG\\Model\\Personagem.cs",
+              "RelativeToolTip": "Model\\Personagem.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T23:37:24.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\Jogo_RPG\bin\Debug\ConsoleApp1.exe.config
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\Jogo_RPG\bin\Debug\ConsoleApp1.exe
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\Jogo_RPG\bin\Debug\ConsoleApp1.pdb
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\Jogo_RPG\obj\Debug\Jogo_RPG.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\Jogo_RPG\obj\Debug\Jogo_RPG.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\Jogo_RPG\obj\Debug\ConsoleApp1.exe
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\Jogo_RPG\obj\Debug\ConsoleApp1.pdb
+C:\Users\rafae\Documents\GitHub\Desenvolvimento_de_Jogos\Chrome Shadows\Jogo_RPG\obj\Debug\ConsoleApp1.exe.config
